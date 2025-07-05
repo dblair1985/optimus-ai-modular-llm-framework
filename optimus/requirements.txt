@@ -1,0 +1,16 @@
+# Core dependencies for Optimus Bot
+ctransformers>=0.2.0
+sentence-transformers>=2.2.0
+
+# Optional dependencies for enhanced functionality
+torch>=1.13.0
+transformers>=4.21.0
+
+# Development and testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# Logging and utilities
+colorlog>=6.7.0
+tqdm>=4.64.0
