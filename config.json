@@ -1,0 +1,5 @@
+{
+  "model": "mistral",
+  "memory_top_k": 5,
+  "history_turns": 6
+}
