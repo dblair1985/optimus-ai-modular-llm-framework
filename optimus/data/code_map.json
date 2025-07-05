@@ -1,0 +1,15 @@
+{
+  "description": "Code map for tracking project structure and dependencies",
+  "version": "1.0.0",
+  "last_updated": "2024-01-01T00:00:00Z",
+  "modules": {},
+  "dependencies": {},
+  "entry_points": [
+    "main.py"
+  ],
+  "metadata": {
+    "total_files": 0,
+    "total_lines": 0,
+    "languages": ["python"]
+  }
+}
